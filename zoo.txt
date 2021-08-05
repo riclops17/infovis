@@ -1,2 +1,11 @@
-prueba
 visual encodings
+hierarchies
+Protovis
+Horizon Graphs
+Turkers
+Q-Q Plots
+scatter plot matrix
+Parallel Coordinates
+Graduated Symbol Maps
+cartogram
+dendrogram
